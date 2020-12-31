@@ -1,0 +1,87 @@
+body{
+    scroll-behavior: smooth;
+    transition: 0.5s;
+}
+
+nav ul li a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+.full-footer{
+    background: rgb(58, 58, 129);
+    
+    
+}
+/* footer */
+.top-footer p{
+    color: white;
+
+}
+.top-footer p a{
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+.top-footer p a:hover{
+    font-size: 18px;
+    color: red;
+    text-decoration: none;
+}
+.top-footer h3,a{
+   color: white;
+}
+.bottom-footer{
+    background: black;
+}
+.bottom-footer p{
+    color: white;
+    text-align: center;
+}
+.col-md-3 a{
+    text-decoration: none;
+    color: white;
+}
+.top-home-section{
+    background: rgb(42, 97, 148);
+}
+.quality-img{
+    width: 200px;
+}
+/* requirement */
+.requirement-section{
+    background:rgb(42, 97, 148) ;
+    color: white;
+}
+.requirement{
+    background: white;
+}
+.newsletter{
+    background:rgb(42, 97, 148) ;
+    color: white;
+
+}
+.newsletter .form-control{
+    height: 50px;
+    border-color:transparent;
+    border-radius: 20px 0 0 20px;
+
+}
+.newsletter .btn{
+    min-height: 50px;
+    border-radius: 0 20px 20px 0;
+    background: blueviolet;
+    color: white;
+
+}
+.client-section{
+    background-color:silver;
+}
+.breadcrumbs-section{
+    background: #e9ecef;
+}
+.about-img{
+    width: 400px;
+    height: 350px;
+    border-radius: 50%;
+}
